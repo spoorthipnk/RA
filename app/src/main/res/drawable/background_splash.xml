@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@color/green"/>
+
+<!--    <item>
+        <bitmap
+
+            android:gravity="center"
+            android:src="@drawable/logo_1"/>
+    </item>
+
+    <item android:top="60dp">
+        <bitmap
+           android:gravity="bottom"
+            android:tint="@android:color/white"
+            android:src="@drawable/t"/>
+    </item>-->
+
+    <item android:top="0dp">
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/logo"/>
+
+
+    </item>
+    <item android:top="200dp">
+        <bitmap
+            android:gravity="center_horizontal"
+
+            android:src="@drawable/text"/>
+    </item>
+
+</layer-list>
